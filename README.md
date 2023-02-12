@@ -1,8 +1,8 @@
-Instance with b1.7.3 babric included for [PolyMC](https://github.com/PolyMC/PolyMC) (should work on MultiMC aswell)
+[Prism](https://github.com/PrismLauncher/PrismLauncher) Instance with Beta 1.7.3 Babric included. (should work on MultiMC and PolyMC aswell)
 
 # Usage
-1. Go to [releases](https://github.com/babric/polymc-instance/releases)
-2. Drag and drop the download link into your PolyMC
-3. Pick the name and click OK!
 
-https://user-images.githubusercontent.com/35262707/159143432-7da34e72-c4ac-4ada-8514-a5b41f5eaac1.mp4
+1. Click the green arrow icon at the top of the page
+2. Click "Download ZIP"
+3. Drag the ZIP file onto your launcher
+4. After installing it, you can delete the zip file.
