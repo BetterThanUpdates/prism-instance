@@ -1,1 +1,5 @@
-*.zip 
+*.zip
+.minecraft/
+.idea/
+.vscode/
+natives/

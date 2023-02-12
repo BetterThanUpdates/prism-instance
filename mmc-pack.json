@@ -2,7 +2,7 @@
     "components": [
         {
             "cachedName": "LWJGL 2",
-            "cachedVersion": "2.9.4-babric.1",
+            "cachedVersion": "2.9.4-nightly-20150209",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl",
@@ -47,9 +47,9 @@
                     "uid": "babric.intermediary"
                 }
             ],
-            "cachedVersion": "0.13.3",
+            "cachedVersion": "0.14.13-babric.1",
             "uid": "net.fabricmc.fabric-loader",
-            "version": "0.13.3"
+            "version": "0.14.14"
         }
     ],
     "formatVersion": 1
